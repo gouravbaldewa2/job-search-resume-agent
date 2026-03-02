@@ -1,0 +1,143 @@
+{
+  "total_jobs": 16,
+  "generated": 16,
+  "blocked": false,
+  "all_jobs": {
+    "Bangalore": [
+      {
+        "title": "Senior Product Manager",
+        "company": "Moutups",
+        "link": "https://in.linkedin.com/jobs/view/senior-product-manager-at-moutups-4378817117?position=1&pageNum=0&refId=zDWtIf1i40xxbx%2FDg3Qgmg%3D%3D&trackingId=aVG1%2FuISmoIEIfvgSwkPYA%3D%3D",
+        "location": "Bengaluru, Karnataka, India",
+        "job_id": "4378817117",
+        "location_group": "Bangalore"
+      },
+      {
+        "title": "Sr. Product Manager",
+        "company": "Netskope",
+        "link": "https://in.linkedin.com/jobs/view/sr-product-manager-at-netskope-4370398634?position=2&pageNum=0&refId=zDWtIf1i40xxbx%2FDg3Qgmg%3D%3D&trackingId=lXs4h7Xcn5eUILHl%2B6bWRQ%3D%3D",
+        "location": "Bengaluru, Karnataka, India",
+        "job_id": "4370398634",
+        "location_group": "Bangalore"
+      },
+      {
+        "title": "Principal Product Manager (12+ Years of experience in B2B consumer /software product)",
+        "company": "Stellantis",
+        "link": "https://in.linkedin.com/jobs/view/principal-product-manager-12%2B-years-of-experience-in-b2b-consumer-software-product-at-stellantis-4377367792?position=4&pageNum=0&refId=zDWtIf1i40xxbx%2FDg3Qgmg%3D%3D&trackingId=JTXQa9NG%2Fe90rtJ93uc4Uw%3D%3D",
+        "location": "Bengaluru, Karnataka, India",
+        "job_id": "4377367792",
+        "location_group": "Bangalore"
+      },
+      {
+        "title": "Senior Product Manager - Capital Planning & Construction Technology",
+        "company": "Aurigo Software Technologies",
+        "link": "https://in.linkedin.com/jobs/view/senior-product-manager-capital-planning-construction-technology-at-aurigo-software-technologies-4379911428?position=5&pageNum=0&refId=zDWtIf1i40xxbx%2FDg3Qgmg%3D%3D&trackingId=jMpFazkXpJlPN%2FLpOQGIiQ%3D%3D",
+        "location": "Bengaluru, Karnataka, India",
+        "job_id": "4379911428",
+        "location_group": "Bangalore"
+      },
+      {
+        "title": "Senior Product Manager, Video Commerce",
+        "company": "Amazon",
+        "link": "https://in.linkedin.com/jobs/view/senior-product-manager-video-commerce-at-amazon-4342621512?position=6&pageNum=0&refId=zDWtIf1i40xxbx%2FDg3Qgmg%3D%3D&trackingId=RHelEDQcgZIUjg9iaS5fhw%3D%3D",
+        "location": "Bengaluru, Karnataka, India",
+        "job_id": "4342621512",
+        "location_group": "Bangalore"
+      },
+      {
+        "title": "Senior Product Manager - Capital Planning",
+        "company": "Aurigo Software Technologies - India",
+        "link": "https://in.linkedin.com/jobs/view/senior-product-manager-capital-planning-at-aurigo-software-technologies-india-4378814472?position=8&pageNum=0&refId=zDWtIf1i40xxbx%2FDg3Qgmg%3D%3D&trackingId=iYFzfVYF6EYWyrRP0dGxbQ%3D%3D",
+        "location": "Bengaluru, Karnataka, India",
+        "job_id": "4378814472",
+        "location_group": "Bangalore"
+      },
+      {
+        "title": "Senior Product Manager for Canada Jobs Opportunities",
+        "company": "Esse India | Canada immigration consultants in delhi | visa consultant delhi",
+        "link": "https://in.linkedin.com/jobs/view/senior-product-manager-for-canada-jobs-opportunities-at-esse-india-canada-immigration-consultants-in-delhi-visa-consultant-delhi-4378489347?position=4&pageNum=0&refId=hi5ZZ5zSf6QnBOAbxUaB%2Fw%3D%3D&trackingId=UtgTRcGyA2A7FS230Jt%2B4g%3D%3D",
+        "location": "Bengaluru, Karnataka, India",
+        "job_id": "4378489347",
+        "location_group": "Bangalore"
+      },
+      {
+        "title": "Senior Product Manager - Schema and Metadata Platform",
+        "company": "Salesforce",
+        "link": "https://in.linkedin.com/jobs/view/senior-product-manager-schema-and-metadata-platform-at-salesforce-4365442447?position=8&pageNum=0&refId=hi5ZZ5zSf6QnBOAbxUaB%2Fw%3D%3D&trackingId=%2BdkpOsF6E2KuJIzO40j8rQ%3D%3D",
+        "location": "Bengaluru, Karnataka, India",
+        "job_id": "4365442447",
+        "location_group": "Bangalore"
+      },
+      {
+        "title": "Senior Product Manager",
+        "company": "Uplers",
+        "link": "https://in.linkedin.com/jobs/view/senior-product-manager-at-uplers-4379907644?position=9&pageNum=0&refId=hi5ZZ5zSf6QnBOAbxUaB%2Fw%3D%3D&trackingId=1uU7V4nHdSKZlT5azMNdYQ%3D%3D",
+        "location": "Bengaluru, Karnataka, India",
+        "job_id": "4379907644",
+        "location_group": "Bangalore"
+      }
+    ],
+    "Dubai": [
+      {
+        "title": "Senior Product Manager",
+        "company": "1inch",
+        "link": "https://ae.linkedin.com/jobs/view/senior-product-manager-at-1inch-4379923622?position=2&pageNum=0&refId=RMFj1utIzn11eWdmNwne%2Bw%3D%3D&trackingId=ugeqrt7j3THMLE6N5c%2BqsA%3D%3D",
+        "location": "Dubai, Dubai, United Arab Emirates",
+        "job_id": "4379923622",
+        "location_group": "Dubai"
+      },
+      {
+        "title": "Senior Product Manager",
+        "company": "Holo",
+        "link": "https://ae.linkedin.com/jobs/view/senior-product-manager-at-holo-4378810050?position=3&pageNum=0&refId=RMFj1utIzn11eWdmNwne%2Bw%3D%3D&trackingId=a3E9127Rk2GuAfJas7XUzw%3D%3D",
+        "location": "Dubai, United Arab Emirates",
+        "job_id": "4378810050",
+        "location_group": "Dubai"
+      },
+      {
+        "title": "Senior Product Manager - LMD",
+        "company": "Yassir",
+        "link": "https://ae.linkedin.com/jobs/view/senior-product-manager-lmd-at-yassir-4379799277?position=4&pageNum=0&refId=RMFj1utIzn11eWdmNwne%2Bw%3D%3D&trackingId=fYlEWZDMR2DyPp8MauOssg%3D%3D",
+        "location": "Dubai, Dubai, United Arab Emirates",
+        "job_id": "4379799277",
+        "location_group": "Dubai"
+      },
+      {
+        "title": "Senior Product Manager (Bangkok-based)",
+        "company": "Agoda",
+        "link": "https://ae.linkedin.com/jobs/view/senior-product-manager-bangkok-based-at-agoda-4299775179?position=5&pageNum=0&refId=RMFj1utIzn11eWdmNwne%2Bw%3D%3D&trackingId=T4XQY6JlVrk4aCFegqxOnw%3D%3D",
+        "location": "Dubai, Dubai, United Arab Emirates",
+        "job_id": "4299775179",
+        "location_group": "Dubai"
+      }
+    ],
+    "Netherlands": [
+      {
+        "title": "Staff Product Manager",
+        "company": "Databricks",
+        "link": "https://nl.linkedin.com/jobs/view/staff-product-manager-at-databricks-4297751040?position=8&pageNum=0&refId=hoZZqVu9UsdZpRRPVVbhLA%3D%3D&trackingId=M55ce2VOxGGsxUdDWhGtzg%3D%3D",
+        "location": "Amsterdam, North Holland, Netherlands",
+        "job_id": "4297751040",
+        "location_group": "Netherlands"
+      }
+    ],
+    "Remote India": [
+      {
+        "title": "Sr. Product Manager",
+        "company": "Netskope",
+        "link": "https://in.linkedin.com/jobs/view/sr-product-manager-at-netskope-4370398634?position=1&pageNum=0&refId=Xpra89MJZH6CBnA2tg8WlA%3D%3D&trackingId=mTb7yJRDqpy%2FP0%2FqNu4mhQ%3D%3D",
+        "location": "Bengaluru, Karnataka, India",
+        "job_id": "4370398634",
+        "location_group": "Remote India"
+      },
+      {
+        "title": "Senior Product Manager",
+        "company": "KernelDAO",
+        "link": "https://in.linkedin.com/jobs/view/senior-product-manager-at-kerneldao-4370521366?position=2&pageNum=0&refId=Xpra89MJZH6CBnA2tg8WlA%3D%3D&trackingId=fv50XVEscOzcZ3Gvf6%2Bwkw%3D%3D",
+        "location": "India",
+        "job_id": "4370521366",
+        "location_group": "Remote India"
+      }
+    ]
+  }
+}
